@@ -1,0 +1,4 @@
+Blayde Omura - Project 2 The program works as required. It compiles/runs
+and the output matches the correct format to the letter. Program passes 
+sanity check on local and lab machines. I included comments on important 
+functions or lines of code.
